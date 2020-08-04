@@ -13,16 +13,16 @@
 
 ## 프로젝트
 1) GQMS 품질관리시스템 구축 
- - 언어 : JAVA 13.0.2, ActionScript3.0, MXML
- - 프레임워크 : Apache Flex
- - 기타 : Apache Tomcat 7.0
- - 소스관리 : SVN
- - 서버 : ON-PREMISE
- - OS : MS-SERVER2016
- - 배포 : Jenkins
- - 인원 : 8명
- - 역할 : 시스템 구축 참여(비즈니스 일부 모듈 개발), 메일링, 크롤링 개발 
- - 프로젝트 기간 : 2017.02 ~ 2017.12
+  - 언어 : JAVA 13.0.2, ActionScript3.0, MXML
+  - 프레임워크 : Apache Flex
+  - 기타 : Apache Tomcat 7.0
+  - 소스관리 : SVN
+  - 서버 : ON-PREMISE
+  - OS : MS-SERVER2016
+  - 배포 : Jenkins
+  - 인원 : 8명
+  - 역할 : 시스템 구축 참여(비즈니스 일부 모듈 개발), 메일링, 크롤링 개발 
+  - 프로젝트 기간 : 2017.02 ~ 2017.12
 
 2) 정산 관리 클라이언트 프로그램
  - 언어 : Python3, PyQT5
