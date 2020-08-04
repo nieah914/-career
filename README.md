@@ -8,8 +8,8 @@
 
 ## 담당업무
 1. GQMS(품질관리시스템) 구축, 개발 및 운영
-2. SAP QM/AS 모듈 개발 및 운영
-3. PowerBi / SPLUNK 운영
+1. SAP QM/AS 모듈 개발 및 운영
+1. PowerBi / SPLUNK 운영
 
 ## 프로젝트
 1. GQMS 품질관리시스템 구축 
