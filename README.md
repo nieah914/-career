@@ -26,7 +26,7 @@
 - 성 과 : 정산 업무 전산화, 정산 소요 시간 절감(약 12시간 > 30분 이내) 
 - 역 활 : 비즈니스 모델 설계 및 전산화(전 과정 1인 개발)
 - 획득역량 : NodeJs 사용법을 숙달 하였으며, 비동기 이벤트 핸들링을 습득하였음, Python을 이용한 대용량 엑셀 처리 방법 습득 
-- 사용툴 : My-sql, Python, Nodejs, Pug, PyQt5, Express.js
+- 사용툴 : My-sql, Python, Nodejs, Pug, PyQt5, Express.js, RestAPI
 
 
 ## 기타 토이 프로젝트
